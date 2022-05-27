@@ -174,15 +174,15 @@ header .navbar{
 }
 
 .navbar-brand h1{
-	font-family: 'Berkshire Swash', cursive;
-	font-weight: normal;
+	font-family: inherit;
+	font-weight: bolder;
 	transition: all 0.3s;
 	color: #fff;
 	margin: 0;
 }
 
 .navbar-brand h1 span{
-	color: #ff5d56;
+	color: darkred;
 }
 
 header .navbar-collapse.collapse{
@@ -288,7 +288,7 @@ header .navbar.sticky-header{
     top: 0px;
     left: 0;
     width: 100%;
-    background: url(../images/header-bg.jpg) no-repeat top center;
+    background: url(../images/taha-bg.png) no-repeat top center;
     background-size: cover;
     padding: 220px 0 120px;
 }
@@ -363,7 +363,7 @@ header .navbar.sticky-header{
 
 .section-title h2{
 	color: #ff5d56;
-	font-family: 'Berkshire Swash', cursive;
+	font-family: FontAwesome;
 	font-weight: normal;
 	font-size: 36px;
 }
@@ -1082,7 +1082,7 @@ header .navbar.sticky-header{
 }
 
 .testimonial-header h3{
-	font-family: 'Berkshire Swash', cursive;
+	font-family: FontAwesome;
 	font-size: 24px;
 	color: #fff;
 	font-weight: normal;
@@ -1133,7 +1133,7 @@ header .navbar.sticky-header{
 }
 
 .newsletter-content h3{
-    font-family: 'Berkshire Swash', cursive;
+	font-family: FontAwesome;
 	font-weight: normal;
 	color: #ff5d56;	
 }
@@ -1443,7 +1443,7 @@ header .navbar.sticky-header{
 }
 
 .footer-logo h1{
-	font-family: 'Berkshire Swash', cursive;
+	font-family: FontAwesome;
     font-weight: normal;
     transition: all 0.3s;
     color: #fff;
